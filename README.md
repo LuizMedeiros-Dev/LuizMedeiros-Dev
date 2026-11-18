@@ -89,6 +89,15 @@ Sistema de gestão de frotas de veículos, voltado ao gerenciamento e acompanham
 
 Projetos acadêmicos, pessoais e de desenvolvimento disponíveis publicamente no GitHub.
 
+### 💰 [Sistema de Gestão de Cobrança](https://github.com/LuizMedeiros-Dev/gestao-de-cobranca-ics)
+
+Sistema para automação de réguas de cobrança, gestão de contas a receber e integração com o ERP Omie.
+
+**Tecnologias:**
+TypeScript · Node.js · PostgreSQL · Vite · APIs REST
+
+**Funcionalidades:** Automação de cobranças, integração com ERP e notificações por e-mail e WhatsApp.
+
 ### 🧮 [Sistema para Análise de Performance de Algoritmos](https://github.com/LuizMedeiros-Dev/Sistema-Para-Analise-De-Performance-Algoritmica)
 
 Sistema desenvolvido para comparar o desempenho de algoritmos de ordenação utilizando imagens armazenadas em banco de dados.
@@ -106,15 +115,6 @@ Sistema de telemetria para simuladores de corrida, com registro de tempos de vol
 Java · Swing/AWT · MySQL · JDBC
 
 **Conceitos:** Programação Orientada a Objetos, persistência de dados e processamento de informações.
-
-### 💰 [Sistema de Gestão de Cobrança](https://github.com/LuizMedeiros-Dev/gestao-de-cobranca-ics)
-
-Sistema para automação de réguas de cobrança, gestão de contas a receber e integração com o ERP Omie.
-
-**Tecnologias:**
-TypeScript · Node.js · PostgreSQL · Vite · APIs REST
-
-**Funcionalidades:** Automação de cobranças, integração com ERP e notificações por e-mail e WhatsApp.
 
 ### 📚 Outros projetos
 
