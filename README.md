@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👨‍💻 Luiz Fellipe Medeiros
+# Luiz Fellipe Medeiros
 
 ### Desenvolvedor de Sistemas | Backend | Full Stack
 
